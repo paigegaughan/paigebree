@@ -28,5 +28,16 @@ img {
   border-radius: 4px;
   padding: 5px;
   width: 150px;
-
+}
+.rank{
+  color:#8c2645
+}
+.title{
+  color:#c93b66
+}
+.author{
+  color:#db7b98
+}
+.header{
+  color:#6c1d35
 }
